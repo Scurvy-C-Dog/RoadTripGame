@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/CarGameRepo/CardGameProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"E:/CarGameRepo/CardGameProject/Content/W_Card.uasset",
+				"E:/CarGameRepo/CardGameProject/Content/W_CardHand.uasset",
+				"E:/CarGameRepo/CardGameProject/Content/W_HUD.uasset",
+				"E:/CarGameRepo/CardGameProject/Content/W_CardHUD.uasset",
+				"E:/CarGameRepo/CardGameProject/Content/BPI_AddCard.uasset"
+			]
+		}
+	]
+}
